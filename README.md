@@ -1,4 +1,3 @@
-I've reviewed the website, and here's how you can update your GitHub bio to include your contribution:
 **👋 Hello! I'm Yass (Yassine El Azizi) - Full-Stack Developer**
 
 🚀 I'm a full-stack web developer based in Milan, Italy, with a strong interest in both building and securing web applications. With over two years of hands-on experience, I've worked on a range of projects, from developing text-to-speech applications to creating tools that streamline web development.
